@@ -14,7 +14,7 @@ header{
 
 
 .banner{
-    background-image: url(../img/banner.png);
+    background-image: url(banner.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -200,7 +200,7 @@ header{
 
 .contact{
     padding: 31px 0;
-    background-image: url(../img/form.png);
+    background-image: url(form.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
